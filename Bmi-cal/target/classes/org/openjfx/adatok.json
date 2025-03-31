@@ -1,0 +1,73 @@
+{
+	"adatok":
+	[
+		{
+			"Name": "Angelina Jolie",
+			"BMI": "17.9"
+		},
+		{
+			"Name": "Roland Juhász",
+			"BMI": "23.04"
+		},
+		{
+			"Name": "Beyonce",
+			"BMI": "21"
+		},
+		{
+			"Name": "Tom Cruise",
+			"BMI": "26"
+		},
+		{
+			"Name": "Tony Romo",
+			"BMI": "28.8"
+		},
+		{
+			"Name": "Serena Wiliams",
+			"BMI": "22.1"
+		},
+		{
+			"Name": "Arnold Schwarzenegger",
+			"BMI": "30.8"
+		},
+		{
+			"Name": "Leonardo Dicaprio",
+			"BMI": "24.486"
+		},
+		{
+			"Name": "Johnny Depp",
+			"BMI": "27.143"
+		},
+		{
+			"Name": "Antonio Banderas",
+			"BMI": "23.291"
+		},
+		{
+			"Name": "Will Smith",
+			"BMI": "26.879"
+		},
+		{
+			"Name": "Victoria Beckham",
+			"BMI": "17.211"
+		},
+		{
+			"Name": "Drew Barrymore",
+			"BMI": "24.088"
+		},
+		{
+			"Name": "Mariah Carey",
+			"BMI": "25.260"
+		},
+		{
+			"Name": "Keanu Reeves",
+			"BMI": "29.511"
+		},
+		{
+			"Name": "Britney Spears",
+			"BMI": "17.631"
+		},
+		{
+			"Name": "Jennifer Lopez",
+			"BMI": "19.362"
+		}
+	]
+}
